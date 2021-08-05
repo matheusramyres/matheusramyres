@@ -1,14 +1,13 @@
-### Hi! I´m Matheus, welcome to my profile! 👋
+### Oi! Eu sou Matheus, seja bem vindo ao meu perfil! 👋
 
-## About me
+## Sobre mim
 
-- :hourglass: I' am currently looking for work
-- :left_speech_bubble: I'm currently learning NodeJs, Reactjs and React-nativ
-- :student: Studying at ifpb-cajazeiras
-- :mag: I' love to learn
-- :loop: I' love solving problems
+- 🏗️: Atualmente estou procurando trabalho.
+- 📚: Nesse momento estou estudando NodeJs, Reactjs e React-nativ e melhorando meu JAVA.
+- 👨‍🎓: Estou sempre em constante aprendizado.
+- 🔎: Resolver problemas é comigo mesmo!
 
-## Contact
+## Contato
 <a href="https://www.linkedin.com/in/matheus-ramyres-793a88142/">
   <img align="left" alt="Matheus LinkedIn" width="35px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" />
 </a>
